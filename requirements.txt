@@ -1,0 +1,4 @@
+
+
+pyAesCrypt==0.6.2
+Crypto==1.4.1
